@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.osx.exclude_files = 'Classes/ios'
   # s.public_header_files = 'Classes/**/*.h'
 
-  s.dependency 'SDWebImage', '>= 4.0.0'
+  s.dependency 'SDWebImage'
   s.dependency 'MBProgressHUD'
 
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit' ,'Photos'
