@@ -16,13 +16,13 @@
 		EAA811621FD7F728004260AE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811611FD7F728004260AE /* main.m */; };
 		EAA8116C1FD7F728004260AE /* PhotosBroswerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA8116B1FD7F728004260AE /* PhotosBroswerViewTests.m */; };
 		EAA811771FD7F728004260AE /* PhotosBroswerViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811761FD7F728004260AE /* PhotosBroswerViewUITests.m */; };
-		EAA811871FD7FFF6004260AE /* ZLBigImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811851FD7FFF6004260AE /* ZLBigImageCell.m */; };
-		EAA811AA1FD81696004260AE /* MHPhontoNewCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811A01FD81696004260AE /* MHPhontoNewCollectionView.m */; };
-		EAA811AD1FD81697004260AE /* MHPhotosBrowserView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811A41FD81696004260AE /* MHPhotosBrowserView.m */; };
-		EAA811B11FD816B1004260AE /* MHPhotoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811AF1FD816B1004260AE /* MHPhotoModel.m */; };
-		EAA811B41FD81720004260AE /* ZLPhotoTool.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811B31FD8171F004260AE /* ZLPhotoTool.m */; };
-		EAA811B71FD81A07004260AE /* UIImageView+ProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811B61FD81A07004260AE /* UIImageView+ProgressView.m */; };
-		EAA811C01FD81C5B004260AE /* MHPhotoBrowserController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAA811BE1FD81C5B004260AE /* MHPhotoBrowserController.m */; };
+		EAF25D7E1FDE56680093FD03 /* MHPhontoNewCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D6F1FDE56680093FD03 /* MHPhontoNewCollectionView.m */; };
+		EAF25D7F1FDE56680093FD03 /* UIImageView+ProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D701FDE56680093FD03 /* UIImageView+ProgressView.m */; };
+		EAF25D801FDE56680093FD03 /* ZLBigImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D721FDE56680093FD03 /* ZLBigImageCell.m */; };
+		EAF25D811FDE56680093FD03 /* MHPhotosBrowserView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D731FDE56680093FD03 /* MHPhotosBrowserView.m */; };
+		EAF25D821FDE56680093FD03 /* ZLPhotoTool.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D781FDE56680093FD03 /* ZLPhotoTool.m */; };
+		EAF25D831FDE56680093FD03 /* MHPhotoBrowserController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D7B1FDE56680093FD03 /* MHPhotoBrowserController.m */; };
+		EAF25D841FDE56680093FD03 /* MHPhotoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF25D7C1FDE56680093FD03 /* MHPhotoModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,21 +62,21 @@
 		EAA811721FD7F728004260AE /* PhotosBroswerViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotosBroswerViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAA811761FD7F728004260AE /* PhotosBroswerViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhotosBroswerViewUITests.m; sourceTree = "<group>"; };
 		EAA811781FD7F728004260AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EAA811851FD7FFF6004260AE /* ZLBigImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLBigImageCell.m; sourceTree = "<group>"; };
-		EAA811861FD7FFF6004260AE /* ZLBigImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLBigImageCell.h; sourceTree = "<group>"; };
-		EAA811881FD80013004260AE /* ZLDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLDefine.h; sourceTree = "<group>"; };
-		EAA811A01FD81696004260AE /* MHPhontoNewCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhontoNewCollectionView.m; sourceTree = "<group>"; };
-		EAA811A41FD81696004260AE /* MHPhotosBrowserView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotosBrowserView.m; sourceTree = "<group>"; };
-		EAA811A61FD81696004260AE /* MHPhontoNewCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhontoNewCollectionView.h; sourceTree = "<group>"; };
-		EAA811A91FD81696004260AE /* MHPhotosBrowserView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotosBrowserView.h; sourceTree = "<group>"; };
-		EAA811AF1FD816B1004260AE /* MHPhotoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotoModel.m; sourceTree = "<group>"; };
-		EAA811B01FD816B1004260AE /* MHPhotoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotoModel.h; sourceTree = "<group>"; };
-		EAA811B21FD8171F004260AE /* ZLPhotoTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLPhotoTool.h; sourceTree = "<group>"; };
-		EAA811B31FD8171F004260AE /* ZLPhotoTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLPhotoTool.m; sourceTree = "<group>"; };
-		EAA811B51FD81A07004260AE /* UIImageView+ProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ProgressView.h"; sourceTree = "<group>"; };
-		EAA811B61FD81A07004260AE /* UIImageView+ProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ProgressView.m"; sourceTree = "<group>"; };
-		EAA811BE1FD81C5B004260AE /* MHPhotoBrowserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotoBrowserController.m; sourceTree = "<group>"; };
-		EAA811BF1FD81C5B004260AE /* MHPhotoBrowserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotoBrowserController.h; sourceTree = "<group>"; };
+		EAF25D6F1FDE56680093FD03 /* MHPhontoNewCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhontoNewCollectionView.m; sourceTree = "<group>"; };
+		EAF25D701FDE56680093FD03 /* UIImageView+ProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ProgressView.m"; sourceTree = "<group>"; };
+		EAF25D711FDE56680093FD03 /* ZLPhotoTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLPhotoTool.h; sourceTree = "<group>"; };
+		EAF25D721FDE56680093FD03 /* ZLBigImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLBigImageCell.m; sourceTree = "<group>"; };
+		EAF25D731FDE56680093FD03 /* MHPhotosBrowserView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotosBrowserView.m; sourceTree = "<group>"; };
+		EAF25D741FDE56680093FD03 /* ZLDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLDefine.h; sourceTree = "<group>"; };
+		EAF25D751FDE56680093FD03 /* MHPhotoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotoModel.h; sourceTree = "<group>"; };
+		EAF25D761FDE56680093FD03 /* MHPhotoBrowserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotoBrowserController.h; sourceTree = "<group>"; };
+		EAF25D771FDE56680093FD03 /* ZLBigImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLBigImageCell.h; sourceTree = "<group>"; };
+		EAF25D781FDE56680093FD03 /* ZLPhotoTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLPhotoTool.m; sourceTree = "<group>"; };
+		EAF25D791FDE56680093FD03 /* UIImageView+ProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ProgressView.h"; sourceTree = "<group>"; };
+		EAF25D7A1FDE56680093FD03 /* MHPhontoNewCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhontoNewCollectionView.h; sourceTree = "<group>"; };
+		EAF25D7B1FDE56680093FD03 /* MHPhotoBrowserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotoBrowserController.m; sourceTree = "<group>"; };
+		EAF25D7C1FDE56680093FD03 /* MHPhotoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHPhotoModel.m; sourceTree = "<group>"; };
+		EAF25D7D1FDE56680093FD03 /* MHPhotosBrowserView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHPhotosBrowserView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,7 +139,7 @@
 		EAA811511FD7F728004260AE /* PhotosBroswerView */ = {
 			isa = PBXGroup;
 			children = (
-				EAA811841FD7F74F004260AE /* BroswerView */,
+				EAF25D6E1FDE56680093FD03 /* BroswerView */,
 				EAA811521FD7F728004260AE /* AppDelegate.h */,
 				EAA811531FD7F728004260AE /* AppDelegate.m */,
 				EAA811551FD7F728004260AE /* ViewController.h */,
@@ -171,34 +171,27 @@
 			path = PhotosBroswerViewUITests;
 			sourceTree = "<group>";
 		};
-		EAA811841FD7F74F004260AE /* BroswerView */ = {
+		EAF25D6E1FDE56680093FD03 /* BroswerView */ = {
 			isa = PBXGroup;
 			children = (
-				EAA8119F1FD81696004260AE /* Web_PicVIew */,
+				EAF25D6F1FDE56680093FD03 /* MHPhontoNewCollectionView.m */,
+				EAF25D701FDE56680093FD03 /* UIImageView+ProgressView.m */,
+				EAF25D711FDE56680093FD03 /* ZLPhotoTool.h */,
+				EAF25D721FDE56680093FD03 /* ZLBigImageCell.m */,
+				EAF25D731FDE56680093FD03 /* MHPhotosBrowserView.m */,
+				EAF25D741FDE56680093FD03 /* ZLDefine.h */,
+				EAF25D751FDE56680093FD03 /* MHPhotoModel.h */,
+				EAF25D761FDE56680093FD03 /* MHPhotoBrowserController.h */,
+				EAF25D771FDE56680093FD03 /* ZLBigImageCell.h */,
+				EAF25D781FDE56680093FD03 /* ZLPhotoTool.m */,
+				EAF25D791FDE56680093FD03 /* UIImageView+ProgressView.h */,
+				EAF25D7A1FDE56680093FD03 /* MHPhontoNewCollectionView.h */,
+				EAF25D7B1FDE56680093FD03 /* MHPhotoBrowserController.m */,
+				EAF25D7C1FDE56680093FD03 /* MHPhotoModel.m */,
+				EAF25D7D1FDE56680093FD03 /* MHPhotosBrowserView.h */,
 			);
-			path = BroswerView;
-			sourceTree = "<group>";
-		};
-		EAA8119F1FD81696004260AE /* Web_PicVIew */ = {
-			isa = PBXGroup;
-			children = (
-				EAA811861FD7FFF6004260AE /* ZLBigImageCell.h */,
-				EAA811851FD7FFF6004260AE /* ZLBigImageCell.m */,
-				EAA811881FD80013004260AE /* ZLDefine.h */,
-				EAA811B21FD8171F004260AE /* ZLPhotoTool.h */,
-				EAA811B31FD8171F004260AE /* ZLPhotoTool.m */,
-				EAA811B01FD816B1004260AE /* MHPhotoModel.h */,
-				EAA811AF1FD816B1004260AE /* MHPhotoModel.m */,
-				EAA811A61FD81696004260AE /* MHPhontoNewCollectionView.h */,
-				EAA811A01FD81696004260AE /* MHPhontoNewCollectionView.m */,
-				EAA811A91FD81696004260AE /* MHPhotosBrowserView.h */,
-				EAA811A41FD81696004260AE /* MHPhotosBrowserView.m */,
-				EAA811B51FD81A07004260AE /* UIImageView+ProgressView.h */,
-				EAA811B61FD81A07004260AE /* UIImageView+ProgressView.m */,
-				EAA811BF1FD81C5B004260AE /* MHPhotoBrowserController.h */,
-				EAA811BE1FD81C5B004260AE /* MHPhotoBrowserController.m */,
-			);
-			path = Web_PicVIew;
+			name = BroswerView;
+			path = ../../BroswerView;
 			sourceTree = "<group>";
 		};
 		F89DBED510D394093178DB8D /* Frameworks */ = {
@@ -401,16 +394,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAA811B11FD816B1004260AE /* MHPhotoModel.m in Sources */,
+				EAF25D801FDE56680093FD03 /* ZLBigImageCell.m in Sources */,
+				EAF25D7E1FDE56680093FD03 /* MHPhontoNewCollectionView.m in Sources */,
 				EAA811571FD7F728004260AE /* ViewController.m in Sources */,
+				EAF25D841FDE56680093FD03 /* MHPhotoModel.m in Sources */,
+				EAF25D831FDE56680093FD03 /* MHPhotoBrowserController.m in Sources */,
 				EAA811621FD7F728004260AE /* main.m in Sources */,
-				EAA811AA1FD81696004260AE /* MHPhontoNewCollectionView.m in Sources */,
-				EAA811C01FD81C5B004260AE /* MHPhotoBrowserController.m in Sources */,
-				EAA811871FD7FFF6004260AE /* ZLBigImageCell.m in Sources */,
-				EAA811B71FD81A07004260AE /* UIImageView+ProgressView.m in Sources */,
-				EAA811AD1FD81697004260AE /* MHPhotosBrowserView.m in Sources */,
-				EAA811B41FD81720004260AE /* ZLPhotoTool.m in Sources */,
+				EAF25D7F1FDE56680093FD03 /* UIImageView+ProgressView.m in Sources */,
 				EAA811541FD7F728004260AE /* AppDelegate.m in Sources */,
+				EAF25D821FDE56680093FD03 /* ZLPhotoTool.m in Sources */,
+				EAF25D811FDE56680093FD03 /* MHPhotosBrowserView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
