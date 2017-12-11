@@ -1,0 +1,14 @@
+# 使用时需要新建一个名为 Podfile 的文件，以如下格式，将依赖的库名字依次列在文件中即可
+  # 指定平台和系统版本
+  platform :ios, '8.0'
+
+  # 表示可以使用 swift 的框架
+use_frameworks!
+
+  # 这个是 cocoapods 升级 1.0 后必须的
+ #  MyApp 就是 TARGET NAME
+target 'PhotosBroswerView' do
+pod 'SDWebImage'
+pod 'MBProgressHUD', '~> 0.8'
+end
+
