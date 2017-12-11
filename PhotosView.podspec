@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = "PhotosView"
+  s.name             = "PhotosBroswerView"
   s.version          = "1.0.0"
   s.summary          = "A marquee view used on iOS."
   s.description      = <<-DESC
