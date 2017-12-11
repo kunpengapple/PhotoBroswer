@@ -6,6 +6,8 @@
 //
 
 #import "UIImageView+ProgressView.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
 
 #define TAG_PROGRESS_VIEW 149462
 

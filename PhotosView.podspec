@@ -28,6 +28,6 @@ Pod::Spec.new do |s|
   s.dependency 'SDWebImage', '>= 4.0.0'
   s.dependency 'MBProgressHUD'
 
-  #s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
+  s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit' ,'Photos'
 
 end
