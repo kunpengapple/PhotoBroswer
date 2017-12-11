@@ -26,6 +26,8 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Classes/**/*.h'
 
   s.dependency 'SDWebImage'
+  s.dependency 'MBProgressHUD'
+
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
 
 end
