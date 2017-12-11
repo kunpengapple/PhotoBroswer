@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = '10.7'
   s.requires_arc = true
 
-  s.source_files = 'BroswerView/*'
+  s.source_files = 'BroswerView/Web_PicVIew/*'
   # s.resources = 'Assets'
 
   # s.ios.exclude_files = 'Classes/osx'
