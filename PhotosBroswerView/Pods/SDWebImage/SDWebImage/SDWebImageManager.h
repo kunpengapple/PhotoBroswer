@@ -103,11 +103,7 @@ typedef void(^SDInternalCompletionBlock)(UIImage * _Nullable image, NSData * _Nu
 
 typedef NSString * _Nullable (^SDWebImageCacheKeyFilterBlock)(NSURL * _Nullable url);
 
-//typedef void(^SDWebImageCompletionBlock)(UIImage *image, NSError *error, SDImageCacheType cacheType, NSURL *imageURL);
-//
-//typedef void(^SDWebImageCompletionWithFinishedBlock)(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL);
-//
-//typedef NSString *(^SDWebImageCacheKeyFilterBlock)(NSURL *url);
+
 @class SDWebImageManager;
 
 @protocol SDWebImageManagerDelegate <NSObject>

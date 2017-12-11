@@ -9,6 +9,6 @@ use_frameworks!
  #  MyApp 就是 TARGET NAME
 target 'PhotosBroswerView' do
 pod 'SDWebImage'
-pod 'MBProgressHUD', '~> 0.8'
+pod 'MBProgressHUD'
 end
 
