@@ -174,21 +174,21 @@
 		EAF25D6E1FDE56680093FD03 /* BroswerView */ = {
 			isa = PBXGroup;
 			children = (
-				EAF25D6F1FDE56680093FD03 /* MHPhontoNewCollectionView.m */,
-				EAF25D701FDE56680093FD03 /* UIImageView+ProgressView.m */,
 				EAF25D711FDE56680093FD03 /* ZLPhotoTool.h */,
-				EAF25D721FDE56680093FD03 /* ZLBigImageCell.m */,
-				EAF25D731FDE56680093FD03 /* MHPhotosBrowserView.m */,
+				EAF25D781FDE56680093FD03 /* ZLPhotoTool.m */,
 				EAF25D741FDE56680093FD03 /* ZLDefine.h */,
 				EAF25D751FDE56680093FD03 /* MHPhotoModel.h */,
-				EAF25D761FDE56680093FD03 /* MHPhotoBrowserController.h */,
-				EAF25D771FDE56680093FD03 /* ZLBigImageCell.h */,
-				EAF25D781FDE56680093FD03 /* ZLPhotoTool.m */,
-				EAF25D791FDE56680093FD03 /* UIImageView+ProgressView.h */,
-				EAF25D7A1FDE56680093FD03 /* MHPhontoNewCollectionView.h */,
-				EAF25D7B1FDE56680093FD03 /* MHPhotoBrowserController.m */,
 				EAF25D7C1FDE56680093FD03 /* MHPhotoModel.m */,
+				EAF25D771FDE56680093FD03 /* ZLBigImageCell.h */,
+				EAF25D721FDE56680093FD03 /* ZLBigImageCell.m */,
+				EAF25D791FDE56680093FD03 /* UIImageView+ProgressView.h */,
+				EAF25D701FDE56680093FD03 /* UIImageView+ProgressView.m */,
+				EAF25D7A1FDE56680093FD03 /* MHPhontoNewCollectionView.h */,
+				EAF25D6F1FDE56680093FD03 /* MHPhontoNewCollectionView.m */,
 				EAF25D7D1FDE56680093FD03 /* MHPhotosBrowserView.h */,
+				EAF25D731FDE56680093FD03 /* MHPhotosBrowserView.m */,
+				EAF25D761FDE56680093FD03 /* MHPhotoBrowserController.h */,
+				EAF25D7B1FDE56680093FD03 /* MHPhotoBrowserController.m */,
 			);
 			name = BroswerView;
 			path = ../../BroswerView;
